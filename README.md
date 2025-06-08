@@ -1,3 +1,4 @@
 # vscode
-learning/doing my own sht
-edit01
+Helloo odin!
+use ctrl ` for terminal in vscode
+
