@@ -1,1 +1,2 @@
 type git add . to add all of them to staged 
+#tes
